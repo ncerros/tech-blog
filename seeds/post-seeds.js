@@ -24,10 +24,4 @@ module.exports = seedPosts;
 
 
 
-//   {
-//     "title": "Roll 'Em Up",
-//     "body": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes."
-//   }
-// ]
-
 
