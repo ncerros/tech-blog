@@ -1,5 +1,4 @@
 const { Model, DataTypes } = require('sequelize');
-const bcrypt = require('bcrypt');
 const sequelize = require('../config/connection');
 
 class Comment extends Model {}
@@ -15,7 +14,7 @@ Comment.init(
       type: DataTypes.STRING,
       validate: {
 
-          len: [3]
+          len: [4]
       }
   },
   user_id: {

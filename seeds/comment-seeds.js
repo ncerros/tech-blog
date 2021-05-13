@@ -6,7 +6,7 @@ const commentData = [{
         post_id: 1
     },
     {
-        comment_text: "Tickect master is one of the most popular when it comes to buy a ticket event.",
+        comment_text: "Ticketmaster is one of the most popular when it comes to buy a ticket event.",
         user_id: 2,
         post_id: 2
     },

@@ -8,12 +8,12 @@ const postData = [{
     },
     {
         title: "Concerts",
-        content: "There are many websites where you can search the event of your choice!",
+        content: "There are many websites where you can search an event of your choice!",
         user_id: 2
     },
     {
         title: 'Halo 5',
-        content: 'A game for XBOX where players have to unlock missions to i order to continue.',
+        content: 'A game for XBOX where players have to unlock missions in order to continue.',
         user_id: 3
     }
 ];
