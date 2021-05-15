@@ -1,7 +1,7 @@
 const { Comment } = require('../models');
 
 const commentData = [{
-        comment_text: "Rivers are my one thing that I always enjoy",
+        comment_text: "Rivers are one thing that I always enjoy",
         user_id: 1,
         post_id: 1
     },
