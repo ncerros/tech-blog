@@ -12,8 +12,8 @@ const postData = [{
         user_id: 2
     },
     {
-        title: 'Halo 5',
-        content: 'A game for XBOX where players have to unlock missions in order to continue.',
+        title: "Halo 5",
+        content: "A game for XBOX where players have to unlock missions in order to continue.",
         user_id: 3
     }
 ];
@@ -21,7 +21,3 @@ const postData = [{
 const seedPosts = () => Post.bulkCreate(postData);
 
 module.exports = seedPosts;
-
-
-
-
