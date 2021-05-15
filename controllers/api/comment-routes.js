@@ -38,6 +38,7 @@ router.post('/', withAuth, (req, res) => {
     }
 });
 
+
 router.put('/:id', withAuth, (req, res) => {
     Comment.update({
         comment_text: req.body.comment_text

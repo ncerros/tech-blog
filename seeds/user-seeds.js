@@ -5,15 +5,15 @@ const userData =
 [
   {
     "name": "Thor",
-    "password": "thor4646"
+    "password": "thor"
   },
   {
     "name": "Superman",
-    "password": "super360"
+    "password": "superman"
   },
   {
     "name": "Batman",
-    "password": "bat1212"
+    "password": "batman"
   }
   ];
 
