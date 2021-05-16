@@ -1,8 +1,28 @@
-# tech-blog
-What we didn't get to:
-Wrapping up user authentication. Look at some of the activities in unit 14 for that. We have the models set up, just not the actual logging in, signing up, etc.
-Showing the posts with comments
-A post detail view
-The dashboard/admin.
+# Tech-Blog
 
+# Description
 
+The Tech-Blog is build using mysql database, CMS, and model view controller. This app is very helpful to anyone to publish blog posts and comment. 
+ <!--[ecommerce-backend](https://www.youtube.com/watch?v=1GAy7awMOIo) -->
+[Tech-Blog Heroku, click here!]()
+
+# Installation
+
+Before connecting to the database it is necessary to install package.jon. 
+1. Run npm i
+2. Install dependencies
+    bcrypt
+    connect-session-sequelize
+    dotenv
+    express,
+    express-handlebars
+    express-session
+    mysql2
+    sequelize
+3. Install dev dependencies
+    jest
+    nodemon
+
+# Questions
+
+For questions, please contact me at n_cerros@hotmail.com
