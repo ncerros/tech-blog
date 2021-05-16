@@ -3,8 +3,8 @@
 # Description
 
 The Tech-Blog is build using mysql database, CMS, and model view controller. This app is very helpful to anyone to publish blog posts and comment. 
- <!--[ecommerce-backend](https://www.youtube.com/watch?v=1GAy7awMOIo) -->
-[Tech-Blog Heroku, click here!]()
+ 
+[Tech-Blog Heroku, click here!](https://bat-man3456.herokuapp.com)
 
 # Installation
 
